@@ -1,6 +1,6 @@
 ### Hi Guys, I'm Ayhan 👋
 
-I am
+
 <!--
 **Ayhaan/Ayhaan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayhaan&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Wakatime 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Ayhan)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Ayhan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
