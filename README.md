@@ -16,15 +16,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+## Statistique
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayhaan&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayhaan&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-
-![Suyash's stats](https://github-readme-stats.vercel.app/api?username=ayhaan&count_private=true&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayhaan&show_icons=true&theme=dracula)
-
-
+## Wakatime 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Ayhan)](https://github.com/anuraghazra/github-readme-stats)
 
 
