@@ -1,8 +1,8 @@
 [![MasterHead](https://www.codingvilla.in/wp-content/uploads/2019/11/baner3.jpg)](https://rishavchanda.io)
 <h1 align="center">Hi Guys, I'm Ayhaan 👋</h1>
 <h3 align="center">I am passionate about programming and I love what I do</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/5c/8f/08/5c8f08b5fe55e12baae6fc54e46c343a.gif">
-- 🔭 I’m currently working on **Laravel, React, Python**
+
+- 🔭 I’m currently working on Laravel, React, Python
 
 - 💬 Ask me about **react, laravel**
 
