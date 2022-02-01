@@ -1,4 +1,3 @@
-[![MasterHead](https://www.codingvilla.in/wp-content/uploads/2019/11/baner3.jpg)](https://rishavchanda.io)
 <h1 align="center">Hi Guys, I'm Ayhaan 👋</h1>
 <h3 align="center">I am passionate about programming and I love what I do</h3>
 
