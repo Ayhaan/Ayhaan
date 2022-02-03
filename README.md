@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **react, laravel**
 
-- 📫 How to reach me **ayhan.cln1997@gmail.com**
+- 📫 You can reach me **ayhan.cln1997@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
