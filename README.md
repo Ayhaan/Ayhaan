@@ -1,7 +1,7 @@
 <h1 align="center">Hi Guys, I'm Ayhaan 👋</h1>
-<h3 align="center">I am passionate developer, nice to meet you !</h3>
+<h3 align="center">A passionate developer, nice to meet you !</h3>
 
-- 🔭 I’m currently working on Laravel, React, Python
+- 🔭 I develop in Laravel, React, Python, etc.
 
 - 💬 Ask me about **react, laravel**
 
