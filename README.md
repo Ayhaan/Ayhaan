@@ -1,5 +1,5 @@
 <h1 align="center">Hi Guys, I'm Ayhaan 👋</h1>
-<h3 align="center">I am passionate about programming and I love what I do</h3>
+<h3 align="center">I am passionate developer, nice to meet you !</h3>
 
 - 🔭 I’m currently working on Laravel, React, Python
 
